@@ -43,7 +43,7 @@ Save the script (e.g., upload_app.py)
 
 Run the server:
 
-    python upload_app.py
+    python transfer2gb.py
 - Connect your mobile and laptop to the same Wi-Fi
 
 - Find your laptop's IP address (e.g., 192.168.1.5)
